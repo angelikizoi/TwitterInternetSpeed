@@ -2,6 +2,8 @@
 
 This project is a Python bot that checks your internet speed using [Speedtest](https://www.speedtest.net/) and tweets at your internet provider if your speed is lower than the promised rates. The bot uses Selenium to automate browser interactions and Python's smtplib to send email alerts.
 
+This project is based on and inspired by the **100 Days of Code: The Complete Python Pro Bootcamp for 2023** course by Angela Yu. The course provides an excellent introduction to Python and was the foundation for this game. You can check out the course on [Udemy](https://www.udemy.com/course/100-days-of-code/?couponCode=ST14MT101024#reviews).
+
 ## Features
 
 - Measure internet download and upload speeds using Speedtest.
